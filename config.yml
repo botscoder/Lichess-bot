@@ -1,5 +1,5 @@
-token: "9UqzD0ZsgvJ2im4j"    # lichess OAuth2 Token
-url: "https://chess-academy.net/"  # lichess base URL
+token: "Cheyicy9OHnWdzLv"    # lichess OAuth2 Token
+url: "https://mskchess.ru/"  # lichess base URL
 
 engine:                      # engine settings
   dir: "./engines/"          # dir containing engines, relative to this project
